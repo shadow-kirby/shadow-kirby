@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @shadow-kirby
+- 👀 I’m interested in Kirby
+- 💞️ I’m looking to collaborate on a Kirby website and game
